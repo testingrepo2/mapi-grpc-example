@@ -12,7 +12,7 @@ production.
 
 🧑‍💻 For Developers, by developers: The engineers building
 software are the best equipped to fix bugs, including security bugs. As
-engineers ourselves, we're building tools that we wish existed to make 
+engineers ourselves, we're building tools that we wish existed to make
 our job easier!
 
 Want to try it? [Sign up for free](http://mayhem4api.forallsecure.com/signup)!
