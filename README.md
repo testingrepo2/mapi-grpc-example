@@ -6,7 +6,7 @@
 
 ## About Mayhem for API
 
-🧪 Modern App Testing: Mayhem for API is a dynamic testing tool that
+🧪 Modern App Testing: Mayhem for API is a dynamic testing tool that 
 catches reliability, performance and security bugs before they hit
 production.
 
